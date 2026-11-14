@@ -1,5 +1,9 @@
 # Emberline — a tactical FPS in three.js
 
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/bimasetmuse61/threejs-fps-02/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/bimasetmuse61/threejs-fps-02/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
 A round-based, Counter-Strike-style tactical FPS that runs offline from static
 files: two teams of five, a bomb-like core to plant and defuse, money earned
 each round and spent in a buy menu, and bots that route, hold, see, hear and
@@ -51,3 +55,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 An entry for the make.fun competition `threejs-fps-02` ("Best three.js
 tactical FPS"). MIT licensed.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards</sub>
